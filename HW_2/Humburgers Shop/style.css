@@ -1,0 +1,74 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url('burger.png');
+    background-color: cornsilk;
+}
+header{
+    /* background-color: cornsilk; */
+    padding: 5px;
+}
+.box{
+    background-color: rgb(239, 243, 250);
+    display: flex;
+    margin: 30px 500px;
+    justify-content: center;
+    flex-direction: column;
+    border: 1px solid black;
+ 
+}
+h1{
+    text-align: center;
+    /* font-size: 25px; */
+}
+.label{
+    cursor: pointer;
+    font-size: 35px;
+    font-weight: 900;
+}
+.burg{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+    text-shadow: 2px 2px 4px rgba(206,89,55,0.85);
+}
+form{
+    margin: 10px auto;
+}  
+legend{
+    padding-left: 5px;
+    padding-right: 5px;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+form label{
+    width: 150px;
+    display: inline-block;
+    margin: 6px;
+    text-align: justify;
+}
+input {
+    margin-right: 10px;
+    padding-right: 5px;
+}
+fieldset{
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.button-box{
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 50px;
+}
+.form-button{
+    padding: 10px;
+    margin: 5px;
+    border-radius: 2px;
+}
+.input-button{
+    padding: 10px;
+}
