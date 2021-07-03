@@ -1,5 +1,4 @@
-{
-    "goods": [
+[
         {
             "id": 001,
             "title": "Cap",
@@ -30,5 +29,4 @@
             "price": 200,
             "image": "\images\socks.png"
         }
-    ]
-}
+]
