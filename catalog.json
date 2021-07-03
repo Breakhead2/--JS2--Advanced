@@ -1,0 +1,34 @@
+{
+    "goods": [
+        {
+            "id": 001,
+            "title": "Cap",
+            "price": 500,
+            "image": "\images\cap.jpg"
+        },
+        {
+            "id": 002,
+            "title": "Shirt",
+            "price": 3500,
+            "image": "\images\shirt.png"
+        },
+        {
+            "id": 003,
+            "title": "Shoes",
+            "price": 5000,
+            "image": "\images\shoes.png"
+        },
+        {
+            "id": 004,
+            "title": "Jacket",
+            "price": 4000,
+            "image": "\images\jacket.png"
+        },
+        {
+            "id": 005,
+            "title": "Socks",
+            "price": 200,
+            "image": "\images\socks.png"
+        }
+    ]
+}
