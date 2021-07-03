@@ -2,7 +2,8 @@
     {
         "id": 1,
         "title": "Cap",
-        "price": 500
+        "price": 500,
+        "img": "/images/shirt.jpg"
     },
     {
         "id": 2,
