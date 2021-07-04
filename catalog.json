@@ -3,30 +3,35 @@
         "id": 1,
         "title": "Cap",
         "price": 500,
+        "quantity": 1,
         "img": "images/cap.jpg"
     },
     {
         "id": 2,
         "title": "Shirt",
         "price": 3500,
+        "quantity": 1,
         "img": "images/shirt.png"
     },
     {
         "id": 3,
         "title": "Shoes",
         "price": 5000,
+        "quantity": 1,
         "img": "images/shoes.png"
     },
     {
         "id": 4,
         "title": "Jacket",
         "price": 4000,
+        "quantity": 1,
         "img": "images/jacket.png"
     },
     {
         "id": 5,
         "title": "Socks",
         "price": 200,
+        "quantity": 1,
         "img": "images/socks.png"
     }
 ]
